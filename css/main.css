@@ -566,3 +566,13 @@ ul.social-buttons li a:active {
  	font-family: 'Shrikhand', cursive;
 
  }
+
+.form-group {
+  width: 85%;
+}
+
+h2.section-heading {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
