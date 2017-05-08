@@ -579,3 +579,7 @@ h2.section-heading {
 .item img{
 margin-left: 370px;
 }
+
+.modal-content img {
+   margin-left: 150px;
+}
